@@ -1,0 +1,2 @@
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const FOCUS_CATEGORY = 'FOCUS_CATEGORY';
